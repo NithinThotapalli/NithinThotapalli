@@ -35,12 +35,12 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NithinThotapalli&show_icons=true&theme=radical" alt="Nithin's GitHub stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithinThotapalli&layout=compact&theme=radical" alt="Top languages" />
-</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NithinThotapalli&show_icons=true&theme=radical" alt="Nithin's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithinThotapalli&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 ---
 
 ### 📌 Featured Projects
