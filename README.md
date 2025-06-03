@@ -30,6 +30,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
 ![EJS](https://img.shields.io/badge/-EJS-8B0000?style=flat&logo=ejs)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 ---
 
