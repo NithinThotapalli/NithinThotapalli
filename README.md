@@ -13,7 +13,7 @@
 - 🌱 I’m learning: **Advanced React, Python automation, and cloud deployment**
 - 👨‍💻 All of my projects are available at: [github.com/NithinThotapalli](https://github.com/NithinThotapalli)
 - 💬 Ask me about: **JavaScript, Node.js, MongoDB, Python**
-- 📫 How to reach me: **nithinthotapalli@example.com** *(replace with your real email)*
+- 📫 How to reach me: **nithinthotapalli80@gmail.com** *(replace with your real email)*
 - ⚡ Fun fact: *I automate before I caffeinate ☕🤖*
 
 ---
@@ -51,6 +51,9 @@
 
 ### 📫 Connect with Me
 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithin-thotapalli)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](https://nithinthotapalli.github.io/shinchu-portfolio/)
 
 
 ---
