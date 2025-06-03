@@ -1,6 +1,6 @@
 <details>
   <summary>Relatable Developer Moment</summary>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="500" />
 </details>
 <h1 align="center">Hi 👋, I'm Nithin Thotapalli</h1>
 <h3 align="center">A passionate full-stack developer and problem solver</h3>
