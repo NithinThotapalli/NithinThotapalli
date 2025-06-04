@@ -55,7 +55,7 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithin-thotapalli)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](https://nithinthotapalli.github.io/shinchu-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](https://nithinthotapalli.github.io/NithinThotapalliPortfolio/)
 
 
 ---
